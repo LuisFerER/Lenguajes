@@ -10,7 +10,10 @@ import java.util.Scanner;
 /**
  *
  * @author luisf
+ *
+ *Encuentre gramaticas con Σ = {a, b, c} que generen los siguientes lenguajes:
  */
+
 public class L5 {
     
     int cont;
